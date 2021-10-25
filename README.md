@@ -14,3 +14,5 @@ Kullanılan Sudoku
 ![Grille](https://github.com/brkyyrr/Sudoku_Solver/blob/master/Grille.jpg?raw=true)
 
 ![Frame](https://github.com/brkyyrr/Sudoku_Solver/blob/master/Frame.jpg?raw=true)
+
+#python #tensorflow #numpy #keras #computervision #ai #deeplearning #machinelearning #datascience #technology
